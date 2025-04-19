@@ -126,8 +126,6 @@ To compile and upload your code:
 |  ├── ul_DAC7821IPW.zip                # User-provided DAC library
 |  ├── ul_INA128U.zip                   # User-provided instrumentation amp
 |  ├── ul_TL072CP.zip                   # User-provided op-amp library
-
-
 ```
 We've made our PCB using KiCAD software and these are the footprints used in the PCB design.
 
